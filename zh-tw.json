@@ -81,7 +81,7 @@
         "Dash.Screens.Session" : "會議",
         "Dash.Screens.FileBrowser" : "<nobr>文件瀏覽器",
         "Dash.Screens.Settings" : "設定",
-        "Dash.Screens.Exit" : "出口",
+        "Dash.Screens.Exit" : "離開",
 
         "Dash.Actions.PasteFromClipboard" : "從剪貼板粘貼內容",
 
